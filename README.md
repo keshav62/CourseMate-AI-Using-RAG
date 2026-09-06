@@ -466,7 +466,7 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 <div align="center">
 
-### Built with ❤️ as part of the **Gen AI by SYR** course
+
 
 *Empowering students with AI-driven learning — one question at a time.*
 
